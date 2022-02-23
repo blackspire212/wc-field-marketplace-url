@@ -3,9 +3,9 @@
 Plugin Name: WooCommerce field marketplace URL
 Plugin URI: https://digitalmedia.name/
 Description:  Add custom field “marketplace_url” to the WooCommerce products
-Author: Bantuwebsite
+Author: Nurcholis Majid Putra
 Author URI: https://bantuwebsite.com/
-Contributors: Nurcholis
+Contributors: blackspire212 
 Version: 2.0.0
 License: MIT
 Text Domain: wc-field-marketplace-url
