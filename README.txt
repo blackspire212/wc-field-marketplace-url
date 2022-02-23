@@ -1,11 +1,8 @@
 # wc-field-marketplace-url
 Custom Add Link Marketplace Indonesian to Product Woocommerce
-=== WooCommerce field Marketplace URL ===
-Contributors: Nurcholis
-Donate link: https://digitalmedia.name
+
+Donate link: https://digitalmedia.name/
 Tags: marketplace, url, woocommerce, product, custom, field
-License: MIT
-License URI: https://digitalmedia.name
 
 Plugin just adds custom field “marketplace_url” to WooCommerce products. No more, no less.
 
