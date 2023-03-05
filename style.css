@@ -1,0 +1,9 @@
+.nmp{
+padding:10px;
+transition: transform 1s;
+filter: grayscale(100%);
+}
+.nmp:hover{
+filter: grayscale(0%);
+transform: scale(0.95); 
+}
